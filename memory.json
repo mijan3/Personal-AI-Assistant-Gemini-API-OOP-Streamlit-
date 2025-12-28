@@ -1,0 +1,18 @@
+[
+    {
+        "role": "user",
+        "message": "Write Hello World in PHP?"
+    },
+    {
+        "role": "assistant",
+        "message": "Error communicating with Gemini API: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+    },
+    {
+        "role": "user",
+        "message": "Write a code for \"Hello World\" in php"
+    },
+    {
+        "role": "assistant",
+        "message": " Error communicating with Gemini API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+    }
+]
